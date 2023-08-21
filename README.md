@@ -2,9 +2,9 @@
 https://saha.run
 
 <!-- マークダウン記述箇所 -->
-## 自己紹介
+### 自己紹介
 
-![彩春](https://github.com/saharu.png "profile")
+![彩春](https://avatars.githubusercontent.com/u/1670402?v=4 "profile")
 
 - 名前：彩春（さはる）
 - ハンドル：s13324
